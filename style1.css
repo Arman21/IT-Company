@@ -289,10 +289,6 @@
 					color:#25AEED;
 				}
 
-				.button2:hover {
-					transform:rotateY(720deg);
-				}
-
 				.button2:hover .sidenavicon1 {
 					color:#3AE2CE;
 				}
